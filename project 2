@@ -15,3 +15,12 @@ else:
        num1 =num2
        num2 = nth
        count += 1
+
+
+#python programme to print all positive numbers in range 
+nums = [12,-7,5,64,-14]
+print("list1= ",nums)
+for i in nums:
+    if i>0:
+        print(i)
+        
